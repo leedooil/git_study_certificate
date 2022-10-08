@@ -1,2 +1,7 @@
-# git_study_certificate
-git_study_certificate
+######정보처리기사실기######
+Day_0820
+Day_0827
+Day_0903
+Day_0924
+Day_1001
+###########################
